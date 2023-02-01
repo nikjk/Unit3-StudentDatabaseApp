@@ -90,9 +90,4 @@ do
 } while (runAgain == true);
 
 
-
-
-
-
-
 Console.WriteLine("Thanks!");
